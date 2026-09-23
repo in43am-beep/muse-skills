@@ -22,10 +22,36 @@ validation, and listing strategy for the Q4 printables line.
 
 - `SKILL.md` — skill definition and usage
 
+### ai-avatar-faceless
+Train and run AI-avatar faceless YouTube channels end to end: avatar realism
+(inputs, eye test, artifact checklist), lip-sync tool picks and cost traps,
+the full automation pipeline (script → voice → avatar → b-roll → edit →
+publish), retention hooks and editing rules, subscribe-conversion placements,
+and community-building routines.
+
+- `SKILL.md` — skill definition and usage
+- `RESEARCH.md` — field research and operator playbooks
+
+### free-finance-intel
+50 free websites showing what billionaires buy and read: investor portfolios
+(dataroma, whalewisdom), insider/politician trades, SEC filings, Buffett/Dalio/
+Marks letters, valuation data (Damodaran), market screeners, backtesting tools,
+and investing education.
+
+- `SKILL.md` — skill definition and usage
+
+### jev-decision-layer
+Decision-routing layer for multi-agent and multi-step work: turn a messy agent
+graph into a controlled loop of state → scored routes → confidence threshold →
+execute or die → verify winners → next state. Separates reasoning (expensive
+model) from decision-making (cheap explicit routing).
+
+- `SKILL.md` — skill definition and usage
+
 ## Install
 
 ```bash
-cp -r screenwriting-craft etsy-q4-research ~/workspace/skills/
+cp -r screenwriting-craft etsy-q4-research ai-avatar-faceless free-finance-intel jev-decision-layer ~/workspace/skills/
 ```
 
 ## Notes
