@@ -108,6 +108,23 @@ Note on the masking rule (§1): the long full-screen rule still holds — the re
 - **Cadence:** ~2/week — tactical 10–35 min + mega free courses (2–3h) + student interviews; **shorts as top-of-funnel** (his payment-proof short sits at #4 in the catalog).
 - **Avatar mapping:** same as §3c — avatar voiceover + full-screen real screen recordings of the workflow; avatar replaces the talking head, proof stays on screen.
 
+## 3f. Avatar craft mechanics (Youri van Hofwegen AI-avatar guide study, 2026-09-25)
+
+**Honest verdict:** HYBRID benchmark — real human (script, hook craft, opinionated rules, sales stack, proof-beat curation, the voice recording source); AI-generated (the on-screen presenter is his own likeness via Seedance 2.5, all images/b-roll, voice clone output). A real AI-avatar tutorial channel: avatar on screen, taste human. Catalog: 325K subs, AI-video-creation tutorials. Full decode: `channel-studies/youri-van-hofwegen.md`. Encode as craft, never as anyone's content:
+
+- **Hook template (20s):** pattern-interrupt claim ("Every AI avatar you've seen has a tell") → agitation via THREE CONCRETE FAILURE MODES (flat lighting on the face, weak background, angle-break) → anti-theory promise ("the actual process start to finish") → triad close ("the face, the voice, the movement"). **Avatar-as-proof opener:** the avatar delivers the hook while already on screen in a cinematic scene — the presenter IS the evidence from frame one.
+- **No-chapters structure:** when chapters are absent, every section opens with a verbal open loop ("a character sheet on its own isn't actually an AI avatar…", "most people skip it entirely", "I saved the simplest use case for last") — signposts carry the structure.
+- **Voice:** contrarian craft rules instead of questions ("two color temperatures does way more for you than haze, lens flare, or writing the word cinematic anywhere in your prompt"); **concrete numbers, never adjectives** (75 words/30 s; 1–2 min clean recording).
+- **Proof-beat cadence:** one visible generated result every ~2–3 min; flag "telling without showing" stretches. Claim-is-shown density: ~60% of runtime must be the thing being taught; every claim instantly shown.
+- **Editing:** burnt-in captions from frame 0 (bold white sans-serif, semi-transparent dark bar, 2 lines, centred lower third, phrase-level — not karaoke); green-on-black keyword highlight boxes; full-screen colour-coded prompt reveals (green headings, yellow key phrases) with slow pan/zoom; screen recordings as zoomed crops with cursor spotlight; whoosh SFX per cut; ambient music bed under b-roll.
+- **Character consistency:** character-sheet kit — photo collage → split-panel character sheet (2K, 16:9) → environments → ONE multi-shot generation with time-coded 3-shot prompts + in-prompt dialogue.
+- **Two-temperature lighting rule:** every realism prompt block names both light sources; maintain a realism-recipe prompt-block library (lighting, skin texture, reflections, breath in cold air).
+- **Voice-record-once checkpoint:** the human voice recording is the irreplaceable step ("the one part that can't be generated out of nothing") — pipeline blocks voice steps until a clean recording exists, then reuses the profile everywhere.
+- **Format presets:** render queue applies aspect ratio + duration per output target (9:16 product short vs 16:9 long-form); dedicated b-roll mode (one image → 3 finished shots, ambient audio, no dialogue); avatar body-language direction presets (hands move, shift weight, blink, glance away).
+- **Description stack (his order):** money link line 1 above the fold → free-bonus link → SEO noun-stacked paragraph (tool names + workflow terms: character sheet, voice clone, cinematic B-roll, talking-head) → free tool link → business email → sponsorship + affiliate disclosures; **no hashtags** (validates §3e's ~6-tag set); pinned comment repeats both money links verbatim. **Disclosure as trust:** transparency is part of the proof.
+- **In-video conversion EARLY (0:54–1:43, before the tutorial):** bonus stack with scarcity ("the only way in is signing up through my link") + price parity ("costs exactly the same either way") — the conversion device, not an end-card afterthought.
+- **Outro:** recap triad ("looks like you, sounds like you, holds up in every format") → single CTA → hard stop. **Meta-demo rule:** every tutorial is produced with the same pipeline it teaches.
+
 ## 4. Retention
 
 - **No intro before the hook.** Cut logo stings and "welcome back". Open mid-action on the title's promise.
