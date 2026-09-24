@@ -75,6 +75,17 @@ Decoded presentation mechanics from studying a top-performing narrated gardening
 
 Note on the masking rule (§1): the long full-screen rule still holds — the reference keeps full-screen close-ups short and puts the presenter in split-screen for the bulk of each segment, which hides lip-sync artifacts while keeping the face on screen.
 
+## 3c. Packaging mechanics (Owen Rensland channel study, 2026-09-25)
+
+**Honest verdict:** real-human-on-camera channel, NOT AI-avatar/faceless. Its transferable value is the **packaging layer** — titles, thumbnails, descriptions, chapters, funnel. Full decode: `channel-studies/owen-rensland.md`. Encode as craft, never as anyone's content:
+
+- **Titles:** exact money figure + timeframe, odd non-round numbers ($4,127 not $4,000); one bracket proof tag — (Live), (free), year; deliberate lowercase casual style, max ONE fully-capitalized emphasis word; curiosity-gap openers (quit/confession, "Watch Me", challenge/question).
+- **Thumbnails:** face in all; proof element (dashboard screenshot, exact figure, red arrow/circle annotation) in 3 of 4; ≤4 words; figures always exact.
+- **Description = PAS sales letter** (Problem→Agitate→"I was like you until"→promise, ≥3 exact numbers) before timestamps; fixed CTA stack: primary offer → numbered freebies → "Watch This Next" internal link → secondary affiliate → social → sales letter → timestamps → affiliate disclaimer → ~30 keywords (topic + own name + 3–5 adjacent creator names).
+- **Chapters:** #1 = "Introduction" (0:00); #2–3 = credibility + explicit "What Do I Get Out Of This" value-proposition within first 10% runtime; ≥30% of chapter titles as questions; bonus/free-stuff chapter at ~60–70% for videos >60 min.
+- **Proof beats:** live-proof videos include one unsuccessful attempt before the success; two-format cadence (mega free-course assets alternating with tactical 10–20 min videos); strict one-niche guardrail (off-niche videos sat at ~100 views vs 150K on-niche).
+- **Avatar mapping:** the talking head + live screen-share format is human-native; closest avatar equivalent = avatar voiceover + full-screen screen-recordings of real dashboards/tools — avatar replaces the talking head, proof stays on screen.
+
 ## 4. Retention
 
 - **No intro before the hook.** Cut logo stings and "welcome back". Open mid-action on the title's promise.
