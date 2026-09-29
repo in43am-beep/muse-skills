@@ -15,7 +15,75 @@ below is implemented in `mib/` and verified by tests + selftest.
 Two render paths, one plan:
 
 - **Free static presenter (default).** A presenter PNG with a slow Ken Burns
-  push-in (ffmpeg zoompan), tight face close-up framing (forehead-to-beard,
+  push-in (ffmpeg zoompan), tight face close-up framing (forehead-to-beard,## 12. Winner decode 2026-09-29 — 3-channel deep decode (92 channels swept)
+
+Full brain: `~/workspace/competitor-brain/COMPETITOR-BRAIN.md`. Factory feeds
+it via `memory/patterns/` (title-patterns.json v2, hook-bank.md
+`winner-style`, thumbnail-prompt-templates.md, script-templates/
+competitor-winner-beats.md, funnel-templates.md, competitor-winners.json).
+Study style only — never copy content.
+
+### The three winners
+- **Bertha's Clean Home** (@BerthaCleanHome, 179k subs, 7.1M views, joined
+  23 Mar 2026). Persona "Bertha Ramírez" — grey hair, pink t-shirt, green
+  rubber gloves. #1: "The Best Way to Clean Your Shower & Tub (The Mexican
+  Way)" — 1.97M views. Funnel: "La Casa Limpia" book, $39.99 (struck $59.99),
+  639-page instant PDF, 5.0/5 from 184 verified reviews, berthacleans.com.
+- **Amish Gardening** (@AmishGardening, 105k subs). Bearded man, straw hat,
+  suspenders. #1: "The 1 Telltale Sign of a Ripe Watermelon Most People
+  Miss" — 4.36M views. Funnel: "The Amish Home Savings Manual", $47 (struck
+  $77), 700+ pages, eliasyoder.com.
+- **Frugal Frannie** (24.9k subs). Funnel: $29 book + $5–$12 add-ons.
+
+### The 7-beat script template (repeats across all three)
+1. Cold-open scene — concrete frustration scene, name the enemies
+   ("Look at your shower glass in the light — that cloudy film…").
+2. Why everything else fails — the aisle of products, why each fails.
+3. The trick — EXACT amounts (1 cup water + 1 cup vinegar + 1 tsp dish soap;
+   dwell 5–10 min). Numbers mandatory.
+4. Honest-words beat — what it can't do, safety limits ("never on wool").
+5. Who-profits math — "$28 spray vs. $5 tub", "$80 gasket saved by the $4
+   jar". This is the bridge to the book funnel — his books' audited savings
+   lines slot here.
+6. Tonight's micro-action — one tiny step today.
+7. Comment CTA with data hook — "your county and {data_point}"
+   (engagement + audience research in one question).
+
+### Title formulas (observed performance)
+- "The Best Way to {topic} (The {heritage} Way)" — Bertha, 1.97M.
+- "The 1 Telltale Sign of a {ripe/ready} {crop} Most People Miss" — Amish, 4.36M.
+- "Put a {household_item} in Your {place} and Watch What Happens" — Bertha, 787k.
+- "What Actually Happens When You {action} (It Is Not What the Bottle Says)" — Bertha, 400k.
+- "The 'Forbidden' {topic} Trick That Works in {time}" — Bertha, 93k at ~9.3k/day.
+- "The {topic} Mistake SILENTLY Destroying Your {thing}" — Bertha, 169k.
+- Test-format beats tip-format: the 4.36M #1 is a 7-test picking format.
+
+### Thumbnail formulas
+- Bertha: avatar + bold white-with-black-outline text + big red curved arrow
+  at the proof + dirty-vs-clean composition.
+- Amish: extreme close-up of proof object + thin white arrow + avatar
+  pointing; red-X/green-check right-vs-wrong splits.
+- Frannie: BIG savings-amount text.
+- Note: his standing rule is NO text overlay on thumbnails — the `{words}`
+  slot is used only when he enables text.
+
+### Funnel archetype (the whole network's monetization)
+One-time PDF book: $17.99–$47, 73–700+ pages, Stripe, 7–30-day money-back
+"and you keep the book", no subscription. Bundles (3 books ~$75) upsell.
+- **#1 sales placement = the pinned comment, not the description.**
+  Bertha's 1.97M-view video has ZERO pitch in its description — the sell
+  lives only in the pinned comment: "my book La Casa Limpia is at
+  berthacleans.com — but the videos stay free, always."
+- Description stack: book line FIRST ("📖 Get {book_name}, every method for
+  the whole house, written down: {url}"), then the full essay.
+- Copy-drift kills trust (QC gate): Frannie's pins still say "91 ways" while
+  the site sells "120 tricks"; a broken book link was spotted by a
+  commenter. Every claim (page count, price, book name) must match the live
+  site before any batch ships.
+- AI-backlash exists ("AI slop" comments) but doesn't kill views; the
+  no-disclosure winners show no backlash in sampled comments.
+
+## 13. Guardrails (never break)
   face centred on the upper third), speaking the voiceover slice at that
   point. Fast, deterministic, renders in seconds.
 - **HeyGen talking-head (opt-in, paid).** The whole narration is rendered ONCE
